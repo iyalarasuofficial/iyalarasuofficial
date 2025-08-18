@@ -17,6 +17,19 @@
 
 <h3 align="left">Project</h3>
 
+### 🔹  Local Hiring Platform – Full-Stack Web App 🛠️👷‍♂️&nbsp; [[Live Site](https://local-hire-platform.onrender.com/)] &nbsp; [[GitHub Repo](https://github.com/iyalarasuofficial/local-hire-platform.git)]
+🛠️ *React.js, Node.js, Express, MongoDB, Tailwind CSS, Mongoose*,framemotion
+
+   -A community-driven hiring platform to reduce unemployment by connecting users with skilled local workers (electricians - plumbers - carpenters - etc.)
+
+   -User Panel - Browse and filter workers by skills & location - book services - track bookings - leave ratings
+   -Worker Panel - Update skills - manage service availability - accept/reject booking requests - track earnings - view ratings
+   -Location Matching - Auto-detects user location and shows workers within a chosen radius
+   -Authentication - Firebase Email/Password login system with role-based access
+   -Scalable Backend - Built with Express - MongoDB - optimized with indexes for faster queries
+  
+------
+
 ### 🔹 Recipe App – Full-Stack Mobile App 📱🍲 &nbsp; [[GitHub Repo](https://github.com/iyalarasuofficial/Recipe-Mobile-App)]
 🛠️ *React Native, Node.js, Drizzle ORM, NeonDB, Clerk*
 
